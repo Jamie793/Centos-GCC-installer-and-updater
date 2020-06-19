@@ -3,7 +3,7 @@
 一键安装或更新centos中的gcc
 
 #way:</br>
-git clone https://github.com/Jamie793/Centos-GCC-installer-and-updater.git</br>
+git clone https://github.com/Jamie793/Centos-GCC-installer-and-updater.git && cd Centos-GCC-installer-and-updater</br>
 sudo chmod +x jgcc.sh</br>
 ./jgcc.sh</br>
 </br>
