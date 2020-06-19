@@ -58,7 +58,7 @@ done
 
 
 #generate and select version and install path
-echo "Welcome to user Jamiexu GCC and G++ installer"
+echo "Welcome to use Jamiexu GCC and G++ installer"
 echo "Input 0 use default install path:/usr/local/gcc-$version"
 echo "All gcc version,please select version"
 generateVersion
